@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Dosis:wght@200;300&family=Macondo&family=Marck+Script&display=swap');
+
+
+
+*   {
+    box-sizing: border-box;
+}
+
+body, html{
+    height: 90%;
+}
+
+p, .btn, li  {
+    font-family: 'Macondo', cursive;
+}
